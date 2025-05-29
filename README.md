@@ -1,5 +1,9 @@
 # 💼 SeuCurrículo
 
+<p align="center">
+  <img src="assets/SeuCurriculo.png" alt="Logo do SeuCurrículo" width="200"/>
+</p>
+
 **SeuCurrículo** é uma aplicação web desenvolvida com **HTML, CSS e JavaScript** para ajudar usuários a criar currículos online de forma simples, rápida e eficaz.  
 O foco principal do projeto é gerar currículos com estrutura **otimizada para sistemas ATS**, aumentando as chances de aprovação em plataformas de recrutamento automatizadas.
 
